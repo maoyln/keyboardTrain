@@ -61,18 +61,14 @@ vim 语法
 /**
  * 添加
  */
-const insertvwComp = (name, age) => {
-   fdasdni   
-}asd
-sd
-fdasd fasdfasd
-dasd asdcfdasd fasdfasd
-de 
-denihapdasd asdfl allcsdf asdfce 
+function testPractice(name, age) {
+  console.log(name);
+  console.log(age);
+}
 
-12c231c23 -12
-123123 -12a
-123123 -b
+function addUser(name) {
+  console.log(name);
+}
 
 you‘re good man
 ```

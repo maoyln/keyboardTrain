@@ -41,6 +41,8 @@
 
 - 练习
 
+> 训练h、j、k、l移动方向
+
 ```js
 const a = 1;
 const b = 2;

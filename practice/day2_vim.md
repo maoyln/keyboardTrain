@@ -1,6 +1,6 @@
 
 目标
-  插入
+  掌握相关命令
 
 - 行首
      0:跳至行首
@@ -41,21 +41,14 @@
 
 
 - 练习
-     aAasdfsafasadf  sda     O  
-asdfasdfasdf
-行前
-asdfsdafasdz[““]a   
-行后yy
-aaaa[]z[{}]
-aaaa[]z[{}]
-aaa   a[] .  z[{}]
-aaaa[]z[{}]
-aaa   a[] .  z[{}]
-  a_sdf   adsad    `[[[[[[]]]]]]`       
-aaa[]z[{}]
-kaaaa[]z[{}]
-aaaa[]z[{}]
-bsdnqweeeasdf909123123
-dasdasdj
-dasdasdj
-jdasdfasddd
+> 训练H移动到行首、L移动到行尾
+> 训练yy复制、p粘贴、dd删除
+> 训练i光标前面插入、I行首插入、a光标后面插入、A行尾插入
+
+```js
+const a = 1;
+const b = 2;
+const b = 2;
+const c = 3;
+const d = 4;
+```
