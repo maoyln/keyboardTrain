@@ -13,7 +13,7 @@
       shift + k: 向上滚动5行
       shift + j: 向下滚动5行
   3. 配置
-
+     normal（normal模式）:
       ```json
           "vim.normalModeKeyBindings": [
               { // 向下移动5行
@@ -26,7 +26,7 @@
               }
           ]
       ```
-      visual:
+      visual(可视化模式):
       ```json
         "vim.visualModeKeyBindings": [
             { // 向下移动5行
