@@ -3,4 +3,4 @@
 AI教程
 解放双手
 智能
-AI will need more info
+AI will need more
